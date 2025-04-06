@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@types/typescript": "^0.4.29",
+    "cloudflare": "^4.2.0",
     "typescript": "^5.8.3"
   }
 }
